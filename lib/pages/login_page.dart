@@ -1,6 +1,5 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:autoroute_deneme/data/cubit/counter_cubit.dart';
-import 'package:autoroute_deneme/routes/app_router.gr.dart';
 import 'package:autoroute_deneme/routes/route_names.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
