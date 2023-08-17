@@ -1,16 +1,13 @@
-# autoroute_deneme
+# Flutter Auto Route Base Uygulama
 
-A new Flutter project.
+Flutter ile auto_route paketinin kullanılışına dair temel örnek uygulama. 
 
-## Getting Started
+Neler var?
+- Nested route: Bölünmüş navigasyon ile ayrı ayrı navigasyon ağacı yapımı.
+- Named route: İsimlendirilimiş rotaların tanımlanması ve kullanılması.
+- Cubit ile tüm uygulamaya aynı verinin paşlaşılması.
+- Bottom Nav Bar ile farklı sekmeler
 
-This project is a starting point for a Flutter application.
+## Nasıl kullanılır?
+Eğer bottom nav bar ve nested route özellikli bir uygulama yapacaksanız. Uygulamanızı bu projeden başlatarak zaman tasarrufu yapabilirsiniz.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
